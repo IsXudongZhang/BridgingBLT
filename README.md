@@ -4,4 +4,4 @@ Identification of drug-target interactions (DTIs) is crucial in several drug dev
 
 ## Run
 
-You can directly run `python train.py` for training and run `python predict.py` for predicting.
+You can directly run `python train_k_fold.py` for training and run `python predict.py` for predicting.
